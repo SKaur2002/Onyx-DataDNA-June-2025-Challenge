@@ -45,9 +45,8 @@ The goal was to:
 
 ## 📸 Dashboard Preview
 
-You can view the final dashboard snapshot used for submission in the image below or through the [LinkedIn Post](#) (insert URL).
-
-![Dashboard Screenshot](./dashboard_image.png) *(Replace with actual image path)*
+You can view the final dashboard snapshot used for submission in the image below or through the
+[[LinkedIn Post](https://www.linkedin.com/posts/sehajpreet-kaur-13a490332_datadna-social-media-activity-7336357206503653376-HTNo?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFO4ab4BgbBivsviO-dTSIdqTsN68IHLxoM)].
 
 ---
 
